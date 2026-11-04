@@ -2,6 +2,8 @@
 
 GitHub CLI, or the gh CLI, is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
+This repository also includes the official Windows x64 executable at [`gh.exe`](gh.exe). See [BINARY-INFO.md](BINARY-INFO.md) for its release version and checksum.
+
 > [!IMPORTANT]
 > GitHub CLI's PGP signing key rotation for Linux package repositories is effective September 5, 2026; users experiencing package installation or update problems can find solutions in the [public announcement](https://github.com/cli/cli/issues/13118).
 
